@@ -101,18 +101,7 @@ class HashTable(object):
  
       #def Retrieve
       
-      
-      
-      # Special Methods for use with Python indexing
-      def __getitem__(self, key):
-            return self.get(key)
-      #def __getitem__
- 
-      def __setitem__(self, key, data):
-            self.put(key,data)
-      #def __setitem__
-      
-      
+
 #Class Hash Table
 
 
